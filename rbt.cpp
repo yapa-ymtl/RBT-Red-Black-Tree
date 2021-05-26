@@ -1,10 +1,3 @@
-/****************************************************
-Course		: CO4352 Advanced Algorithms
-Name		: YAPA.YMTL
-Index no.	: 17_ENG_119
-Asgmnt  	: Red Black Tree
-****************************************************/
-
 #include <iostream>
 #include <vector>
 #include <string>
