@@ -1,4 +1,4 @@
-# RBT-Red-Black-Tree-Algorithm
+# (RBT) Red Black Tree data structure
 Red black tree data structure using c++
 <br/>
 <br/>
